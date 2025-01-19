@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello! My name is Álvaro 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-jose-baranoski/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarojosebaranoski01@gmail.com)
 
-<!--
-**alvaro-j-baranoski/alvaro-j-baranoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Software developer and electrical engineer. Has experience working with .NET framework using C# language, Python, and JavaScript to deliver high-quality products. Loves to build high-performance and well-documented applications using the best technologies available in the market that can benefit the end user. Strives to learn new things and overcome complex challenges constantly.Software developer and electrical engineer. Has experience working with .NET framework using C# language, Python, and JavaScript to deliver high-quality products. Loves to build high-performance and well-documented applications using the best technologies available in the market that can benefit the end user. Strives to learn new things and overcome complex challenges constantly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :package: Tech Stack
+
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+## :wrench: Tools
+![](https://img.shields.io/badge/git-ff4500?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/docker-0095ff?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/k8s-0077cc?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+## :round_pushpin: Interests
+- :cloud: Cloud
+- :rocket: DevOps
+- :dart: Software Architecture
+- :construction_worker: Software Engineering
